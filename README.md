@@ -15,7 +15,7 @@ Provides interactive visualizations for exploring the dataset.
 
 2️⃣ EDA Notebook
 
-File: EDA_AmaZonPrime_Prime Show.ipynb
+File: EDA_AmazonPrime_Prime Show.ipynb
 
 Created using Google Colab
 
